@@ -3,7 +3,7 @@ This repository contains the data and code for the article "Development of a Mul
 
 
 Repository Contents
-Raw Data: EMG signal files acquired from 19 volunteers, using both the EMG prototype and the professional Biopac® equipment.
+Raw Data: EMG signal files acquired from 18 volunteers, using both the EMG prototype and the professional Biopac® equipment.
 Analysis Scripts: MATLAB and Python scripts used for signal processing, feature extraction, and statistical analysis.
 Documentation: Detailed instructions on how to replicate the analysis and results presented in the article, including environment setup and necessary dependencies.
 Usage
