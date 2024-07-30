@@ -1,0 +1,2 @@
+# Development-of-a-Multimodal-EMG-Prototype-and-a-Statistical-Validation-Against-a-Profesional-Equipme
+This repository contains the data and code for the article "Development of a Multimodal EMG Prototype and a Statistical Validation Against Professional Equipment." It includes raw EMG signals, analysis scripts, and documentation to replicate the study. Contributions to improve or expand the work are welcome.
